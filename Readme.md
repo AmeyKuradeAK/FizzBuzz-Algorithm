@@ -8,7 +8,7 @@ The FizzBuzz algorithm comes from a children’s game. This algorithm has been o
 This coding problem is popular among numbers 3 and 5, but you may be able to see more complex numbers, but the logic for solving the problem will remain the same.
 
 # Demo
-![Screenshot](Screenshot.png)
+![Screenshot](screenshot.png)
 
 # Summary
 Fizz and Buzz refer to numbers that are divisible by 3 and 5. If a number is divisible by 3, it is replaced by “Fizz”, if the number is divisible by 5, it is replaced by “Buzz”, and if the number is divisible by 3 and 5 then the number is replaced by “FizzBuzz”.
