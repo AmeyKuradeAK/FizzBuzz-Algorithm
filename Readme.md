@@ -13,5 +13,5 @@ Fizz and Buzz refer to numbers that are divisible by 3 and 5. If a number is div
 I hope you liked this article on the implementation of FizzBuzz algorithm using C++ and Python programming language. Feel free to ask your valuable questions in the comments section below.
 
 # Contribution
-You can contribute this Repo by Forking repo.
+You can contribute this Repo by Forking repo.\
 Pull request accepted.
